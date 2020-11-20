@@ -5,7 +5,7 @@ In future, the way input is provided can be modified accordingly like having an 
 Java classes in this project:
     InvalidInputException.java
     Range.java
-    ZipApp.java
+    ZipApp.java 
     ZipcodeUtility.java
     ZipcodeUtilityTest.java
-Driver class is ZipApp.java
+Driver class is ZipApp.java (ZipCodeApp/src/zipCodeApp/application/runner/ZipApp.java)
