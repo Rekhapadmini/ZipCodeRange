@@ -1,0 +1,11 @@
+Description: This project is to simplify zipcode range inputs by eliminating overlapping ranges and still retaining the original range.
+Assumptions made: input is sent in the form of [12345,34567] [45678,56789] thru command line.
+In future, logging can be implemented by using LoggerFactory instead of System.out
+In future, the way input is provided can be modified accordingly like having an UI to receive input and a REST controller to pass it on to application logic.
+Java classes in this project:
+    InvalidInputException.java
+    Range.java
+    ZipApp.java
+    ZipcodeUtility.java
+    ZipcodeUtilityTest.java
+Driver class is ZipApp.java
